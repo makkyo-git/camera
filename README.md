@@ -2,7 +2,7 @@
 
 用意ができましたら、
 
-python/python内で、
+python(manage.pyがある)ディレクトリ内で、
 
 `$ python manage.py runserver IPアドレス(例:0.0.0.0:8000)`
 

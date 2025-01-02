@@ -2,13 +2,13 @@
 
 用意ができましたら、
 
-backend/processed_photo内で、
+python/python内で、
 
 `$ python manage.py runserver IPアドレス(例:0.0.0.0:8000)`
 
 と、ターミナルで入力し、
 
-front/take_photoディレクトリ内で、
+photoディレクトリ内で、
 
 `$ flutter run`
 
